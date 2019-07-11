@@ -1,0 +1,11 @@
+body {
+    background-color: #eee;
+}
+main {
+    margin: 2rem 4rem;
+}
+.col-md-6, .col-lg-4 {
+    padding-bottom:30px;
+}
+
+
